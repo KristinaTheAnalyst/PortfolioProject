@@ -2,16 +2,6 @@
 # coding: utf-8
 
 # # BMI CALCULATOR
-# 
-
-# In[ ]:
-
-
-
-
-
-# In[29]:
-
 
 name= input("what is your name?")
 weight = int(input("What is your weight in lb?"))
@@ -29,70 +19,4 @@ if BMI > 0:
         print (name + ", you are obese")
 else:
      print("Invalid inmput")
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
 
